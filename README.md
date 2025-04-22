@@ -11,6 +11,16 @@ The study aimed to model both current and future potential distributions of seve
 
 Preprint: [https://doi.org/10.22541/au.173697608.88721540/v1](https://doi.org/10.22541/au.173697608.88721540/v1)
 
+## 📂 Repository Contents
+
+- `extracting_tables.R`: Extracts tabular summaries from model outputs, including species-wise suitability areas and comparison tables.
+- `final_sdm_map.R`: Generates final ensemble habitat suitability maps for each bamboo species under current and future scenarios.
+- `functions_only.R`: Contains reusable custom functions used across different scripts in the project.
+- `modeling_script.R`: Core script for building species distribution models using ensemble techniques, must run all the functions in the file `functions_only.R` before running the scripts in this R file.
+- `other_maps.R`: Produces additional maps such as binary habitat classifications and overlapping suitability layers.
+- `other_plots.R`: Generates supplementary plots including response curves, variable importance, and evaluation metrics.
+
+
 ## Environmental Variables
 
 Environmental predictors used include:
