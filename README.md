@@ -47,7 +47,7 @@ Due to data-sharing restrictions, **occurrence points** are not publicly availab
 
 If you're interested in accessing the raw data, please contact:
 
-**Sushank Pokhrel** : `sushpokh111@gmail.com`  
+**Sushank Pokhrel** : `pokhrel@sushank.com.np`  
 
 We can discuss how to obtain the data from the **Forest Research and Training Center (FRTC), Babarmahal, Kathmandu, Nepal**.
 
