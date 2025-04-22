@@ -11,7 +11,7 @@ The study aimed to model both current and future potential distributions of seve
 
 Preprint: [https://doi.org/10.22541/au.173697608.88721540/v1](https://doi.org/10.22541/au.173697608.88721540/v1)
 
-## 📂 Repository Contents
+## Repository Contents
 
 - `extracting_tables.R`: Extracts tabular summaries from model outputs, including species-wise suitability areas and comparison tables.
 - `final_sdm_map.R`: Generates final ensemble habitat suitability maps for each bamboo species under current and future scenarios.
@@ -53,7 +53,7 @@ We can discuss how to obtain the data from the **Forest Research and Training Ce
 
 ## Acknowledgments
 
-We thank the Forest Research and Training Center (FRTC), Ministry of Forests and Environment, for providing occurrence data and guidance.
+We thank Forest Research and Training Center (FRTC), Babarmahal, Kathmandu, Nepal for providing occurrence data and guidance.
 
 ## License
 
