@@ -7,7 +7,7 @@ This repository contains all R scripts and resources related to the species dist
 The study aimed to model both current and future potential distributions of seven bamboo species under different climate change scenarios. It used an **ensemble modeling approach** combining multiple algorithms to enhance predictive accuracy.
 
 **Citation:**  
-Pokhrel, S., Neupane, P., Paudel, N., Dhakal, M., Lamichhane, P., & Khadka, A. (2025). *How Will Climate Change Shift the Suitable Area of Seven Woody Bamboo Species in Nepal? Evidences from Ensemble Species Distribution Modeling*.  
+>Pokhrel, S., Neupane, P., Paudel, N., Dhakal, M., Lamichhane, P., & Khadka, A. (2025). *How Will Climate Change Shift the Suitable Area of Seven Woody Bamboo Species in Nepal? Evidences from Ensemble Species Distribution Modeling*.  
 Preprint: [https://doi.org/10.22541/au.173697608.88721540/v1](https://doi.org/10.22541/au.173697608.88721540/v1)
 
 ## Environmental Variables
@@ -41,10 +41,10 @@ If you're interested in accessing the raw data, please contact:
 
 We can discuss how to obtain the data from the **Forest Research and Training Center (FRTC), Babarmahal, Kathmandu, Nepal**.
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 We thank the Forest Research and Training Center (FRTC), Ministry of Forests and Environment, for providing occurrence data and guidance.
 
-## 📜 License
+## License
 
 This repository is shared for academic and non-commercial use. Please cite the study appropriately if you use the code or methodology.
