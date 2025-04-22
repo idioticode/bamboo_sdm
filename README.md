@@ -29,8 +29,7 @@ Environmental predictors used include:
 - **Topographic variables**: elevation, slope, and aspect
 
 Reference for WorldClim dataset:  
-Hijmans et al. (2005). *Very high resolution interpolated climate surfaces for global land areas*.  
-[https://doi.org/10.1002/joc.1276](https://doi.org/10.1002/joc.1276)
+Hijmans, R. J., Cameron, S. E., Parra, J. L., Jones, P. G., & Jarvis, A. (2005). Very high resolution interpolated climate surfaces for global land areas. *International Journal of Climatology: A Journal of the Royal Meteorological Society, 25*(15), 1965-1978. [https://doi.org/10.1002/joc.1276](https://doi.org/10.1002/joc.1276)
 
 ## Future Climate Scenarios
 
